@@ -39,6 +39,10 @@ Each day, it generates:
 
 ---
 
+## Screenshot
+
+<img src="/images/screenshot.png" alt="Health AI Project screen shot" height="400" style="margin:0 20px; border-radius:15px;"/>
+
 ## 🔧 Configuration
 
 Edit your **.env** file to include:
